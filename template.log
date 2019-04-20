@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.18)  19 APR 2019 15:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.18)  19 APR 2019 21:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1240,9 +1240,16 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-) (./capitulos/cap3.tex [2 <./images/FlujoCircular.png> <./images/FPP.png>])
-(./capitulos/cap4.tex [3] [4]
-<images/demand1.png, id=29, 461.725pt x 283.0575pt>
+) (./capitulos/cap3.tex [2 <./images/FlujoCircular.png> <./images/FPP.png>]
+<images/Desplazamientos_en_la_FPP.png, id=23, 1059.96pt x 350.30875pt>
+File: images/Desplazamientos_en_la_FPP.png Graphic file (type png)
+<use images/Desplazamientos_en_la_FPP.png>
+Package pdftex.def Info: images/Desplazamientos_en_la_FPP.png  used on input li
+ne 9.
+(pdftex.def)             Requested size: 317.99045pt x 105.09343pt.
+)
+(./capitulos/cap4.tex [3 <./images/Desplazamientos_en_la_FPP.png>] [4]
+<images/demand1.png, id=31, 461.725pt x 283.0575pt>
 File: images/demand1.png Graphic file (type png)
 <use images/demand1.png>
 Package pdftex.def Info: images/demand1.png  used on input line 50.
@@ -1278,21 +1285,9 @@ re-men-to en la de-man-da\T1/stix/m/n/10 .
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 53--54
-\T1/stix/m/n/10 Por el con-tra-rio, cual-quier cam-bio que re-duz-ca la can-ti-
-dad de-
- []
-
-
-Underfull \hbox (badness 1552) in paragraph at lines 53--54
-\T1/stix/m/n/10 man-da a to-do pre-cio des-pla-za-rá a la cur-va de la de-man-d
-a a la
- []
-
-
-Underfull \hbox (badness 2073) in paragraph at lines 53--54
-\T1/stix/m/n/10 iz-quier-da. A es-to se le co-no-ce co-mo \T1/stix/m/it/10 de-c
-re-men-to en la de-man-
+Underfull \hbox (badness 1675) in paragraph at lines 53--54
+\T1/stix/m/n/10 da a to-do pre-cio des-pla-za-rá a la cur-va de la de-man-da a 
+la iz-
  []
 
 
@@ -1301,7 +1296,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
  []
 
 [5 <./images/demand1.png>] [6]
-<images/char4.png, id=38, 780.9175pt x 218.8175pt>
+<images/char4.png, id=40, 780.9175pt x 218.8175pt>
 File: images/char4.png Graphic file (type png)
 <use images/char4.png>
 Package pdftex.def Info: images/char4.png  used on input line 100.
@@ -1311,10 +1306,10 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 16718 strings out of 492616
- 303411 string characters out of 6132783
+ 16723 strings out of 492616
+ 303603 string characters out of 6132783
  355432 words of memory out of 5000000
- 20227 multiletter control sequences out of 15000+600000
+ 20231 multiletter control sequences out of 15000+600000
  81549 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,10n,48p,871b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1323,10 +1318,10 @@ Here is how much of TeX's memory you used:
 s/type1/public/stix/STIXGeneral-Bold.pfb><c:/texlive/2018/texmf-dist/fonts/type
 1/public/stix/STIXGeneral-Italic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pu
 blic/stix/STIXGeneral-Regular.pfb>
-Output written on template.pdf (8 pages, 240475 bytes).
+Output written on template.pdf (8 pages, 273889 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
