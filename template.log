@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.18)  14 MAY 2019 23:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.18)  15 MAY 2019 01:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1312,18 +1312,238 @@ File: images/char4.png Graphic file (type png)
 <use images/char4.png>
 Package pdftex.def Info: images/char4.png  used on input line 100.
 (pdftex.def)             Requested size: 468.55411pt x 131.2915pt.
-) (./capitulos/cap5.tex [7 <./images/char4.png>]) (./capitulos/cap6.tex [8]) (.
-/capitulos/cap7.tex [9]) (./capitulos/cap8.tex
-[10]) (./capitulos/cap9.tex [11]) (./capitulos/cap10.tex [12])
-(./capitulos/CapEmpaty.tex [13]) [14] (./template.aux
+) (./capitulos/cap5.tex [7 <./images/char4.png>]) (./capitulos/cap6.tex [8]
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 		\begin{subfigure}
+                        	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 			\left
+             
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.18 			\includegraphics
+                        [scale=0.3]{images/61.jpg}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<images/61.jpg, id=49, 730.73pt x 548.0475pt>
+File: images/61.jpg Graphic file (type jpg)
+<use images/61.jpg>
+Package pdftex.def Info: images/61.jpg  used on input line 18.
+(pdftex.def)             Requested size: 219.22069pt x 164.41551pt.
+
+! LaTeX Error: \begin{figure} on input line 14 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 		\end{subfigure}
+                       	
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.19 		\end{subfigure}
+                       	
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 		\end{subfigure}
+                       	
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 		\begin{subfigure}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 			\left
+             	
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.22 			\includegraphics
+                        [scale=0.3]{images/62.jpg}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<images/62.jpg, id=50, 730.73pt x 548.0475pt>
+File: images/62.jpg Graphic file (type jpg)
+<use images/62.jpg>
+Package pdftex.def Info: images/62.jpg  used on input line 22.
+(pdftex.def)             Requested size: 219.22069pt x 164.41551pt.
+
+! LaTeX Error: \begin{figure} on input line 14 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 		\end{subfigure}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.23 		\end{subfigure}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.23 		\end{subfigure}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: Environment subfigure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 		\begin{subfigure}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.25 		\left
+            	
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \unhbox 
+l.26 		\includegraphics
+                       [scale=0.3]{images/meme3.jpg}
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+<images/meme3.jpg, id=51, 602.25pt x 298.11375pt>
+File: images/meme3.jpg Graphic file (type jpg)
+<use images/meme3.jpg>
+Package pdftex.def Info: images/meme3.jpg  used on input line 26.
+(pdftex.def)             Requested size: 180.67639pt x 89.43481pt.
+
+! LaTeX Error: \begin{figure} on input line 14 ended by \end{subfigure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 	\end{subfigure}
+                      		
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing \right. inserted.
+<inserted text> 
+                \right .
+l.27 	\end{subfigure}
+                      		
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.27 	\end{subfigure}
+                      		
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) (./capitulos/cap7.tex [9 <./images/61.jpg> <./images/62.jpg> <./images/Meme3.
+jpg>]) (./capitulos/cap8.tex [10]) (./capitulos/cap9.tex [11])
+(./capitulos/cap10.tex [12]) (./capitulos/CapEmpaty.tex [13]) [14]
+(./template.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 16750 strings out of 492616
- 304011 string characters out of 6132783
- 355436 words of memory out of 5000000
- 20235 multiletter control sequences out of 15000+600000
+ 16765 strings out of 492616
+ 304257 string characters out of 6132783
+ 355435 words of memory out of 5000000
+ 20247 multiletter control sequences out of 15000+600000
  81549 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,10n,48p,871b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1332,10 +1552,10 @@ Here is how much of TeX's memory you used:
 s/type1/public/stix/STIXGeneral-Bold.pfb><c:/texlive/2018/texmf-dist/fonts/type
 1/public/stix/STIXGeneral-Italic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pu
 blic/stix/STIXGeneral-Regular.pfb>
-Output written on template.pdf (15 pages, 331832 bytes).
+Output written on template.pdf (15 pages, 444757 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
