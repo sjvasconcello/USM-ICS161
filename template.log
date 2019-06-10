@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.18)  15 MAY 2019 01:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.4.18)  10 JUN 2019 00:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -549,7 +549,7 @@ LaTeX Info: Redefining \not on input line 2144.
 \WF@box=\box56
 \WF@everypar=\toks24
 Package: wrapfig 2003/01/31  v 3.6
-))
+)
 (c:/texlive/2018/texmf-dist/tex/latex/floatflt/floatflt.sty
 Package: floatflt 1997/07/16 v. 1.31
 \c@OptionTest=\count117
@@ -572,7 +572,6 @@ Package: floatflt 1997/07/16 v. 1.31
 \fltitemwidth=\dimen142
 \outputpretest=\toks25
 )
-(./modules/commands.tex)
 (c:/texlive/2018/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (c:/texlive/2018/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (c:/texlive/2018/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
@@ -828,6 +827,210 @@ File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
 brarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.g
+eometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
+isc.code.tex
+File: pgflibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.s
+ymbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.a
+rrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.callouts.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.c
+allouts.code.tex))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
+ultipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodepartlowerbox=\box71
+\pgfnodeparttwobox=\box72
+\pgfnodepartthreebox=\box73
+\pgfnodepartfourbox=\box74
+\pgfnodeparttwentybox=\box75
+\pgfnodepartnineteenbox=\box76
+\pgfnodeparteighteenbox=\box77
+\pgfnodepartseventeenbox=\box78
+\pgfnodepartsixteenbox=\box79
+\pgfnodepartfifteenbox=\box80
+\pgfnodepartfourteenbox=\box81
+\pgfnodepartthirteenbox=\box82
+\pgfnodeparttwelvebox=\box83
+\pgfnodepartelevenbox=\box84
+\pgfnodeparttenbox=\box85
+\pgfnodepartninebox=\box86
+\pgfnodeparteightbox=\box87
+\pgfnodepartsevenbox=\box88
+\pgfnodepartsixbox=\box89
+\pgfnodepartfivebox=\box90
+)))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\arrowsize=\dimen189
+))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.te
+x
+File: pgflibraryfadings.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))) (c:/texlive/2018/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2018/03/28 v1.16 Data Visualization (1.16)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks38
+\t@pgfplots@tokb=\toks39
+\t@pgfplots@tokc=\toks40
+\pgfplots@tmpa=\dimen190
+\c@pgfplots@coordindex=\count144
+\c@pgfplots@scanlineindex=\count145
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
+x))
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_loader.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary arithmetics for your pgf version...
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_pgflibraryfpu.code.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count146
+))
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+cture.code.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+ctureext.code.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
+de.tex
+\c@pgfplotsarray@tmp=\count147
+)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
+ode.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
+ode.tex
+\c@pgfplotstable@counta=\count148
+\t@pgfplotstable@a=\toks41
+)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
+de.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.
+tex))
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.te
+x)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
+ading.code.tex
+\c@pgfplotslibrarysurf@no=\count149
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-pdftex.def)))
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.t
+ex
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+))) (c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.t
+ex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+ex
+\pgfdecoratedcompleteddistance=\dimen191
+\pgfdecoratedremainingdistance=\dimen192
+\pgfdecoratedinputsegmentcompleteddistance=\dimen193
+\pgfdecoratedinputsegmentremainingdistance=\dimen194
+\pgf@decorate@distancetomove=\dimen195
+\pgf@decorate@repeatstate=\count150
+\pgfdecorationsegmentamplitude=\dimen196
+\pgfdecorationsegmentlength=\dimen197
+)
+\tikz@lib@dec@box=\box91
+)
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathreplacing.code.tex
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathreplacing.code.tex))
+\pgfplots@numplots=\count151
+\pgfplots@xmin@reg=\dimen198
+\pgfplots@xmax@reg=\dimen199
+\pgfplots@ymin@reg=\dimen256
+\pgfplots@ymax@reg=\dimen257
+\pgfplots@zmin@reg=\dimen258
+\pgfplots@zmax@reg=\dimen259
+)
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+(c:/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
+tex
+File: pgflibraryplotmarks.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)))) (c:/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks42
+\verbatim@line=\toks43
+\verbatim@in@stream=\read2
+)
+(./modules/commands.tex)
 
 LaTeX Warning: Unused global option(s):
     [18pt].
@@ -916,17 +1119,17 @@ LaTeX Info: Redefining \selectfont on input line 9.
 
 (c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count144
-\scratchdimen=\dimen189
-\scratchbox=\box71
-\nofMPsegments=\count145
-\nofMParguments=\count146
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count147
-\MPscratchDim=\dimen190
-\MPnumerator=\count148
-\makeMPintoPDFobject=\count149
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count152
+\scratchdimen=\dimen260
+\scratchbox=\box92
+\nofMPsegments=\count153
+\nofMParguments=\count154
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count155
+\MPscratchDim=\dimen261
+\MPnumerator=\count156
+\makeMPintoPDFobject=\count157
+\everyMPtoPDFconversion=\toks45
 ) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -979,10 +1182,17 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-ABD: EveryShipout initializing macros (./capitulos/titlePage.tex
+ABD: EveryShipout initializing macros
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
+your preamble.
+ on input line 9.
+
+(./capitulos/titlePage.tex
 LaTeX Font Info:    Font shape `T1/stix/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/stix/b/n' tried instead on input line 21.
-<images/meme2.jpg, id=4, 722.7pt x 663.47874pt>
+<images/meme2.jpg, id=29, 722.7pt x 663.47874pt>
 File: images/meme2.jpg Graphic file (type jpg)
 <use images/meme2.jpg>
 Package pdftex.def Info: images/meme2.jpg  used on input line 21.
@@ -1100,172 +1310,21 @@ Overfull \hbox (1.6803pt too wide) in paragraph at lines 22--23
 [1]
 Package marginnote Info: Using workaround for absolute page number on input lin
 e 25.
-) (./capitulos/cap2.tex
-Overfull \hbox (3.21284pt too wide) in paragraph at lines 13--18
- [] 
- []
-
-
-! LaTeX Error: Environment subfigure undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 \begin{subfigure}
-                      	
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.27 	\left
-           
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing delimiter (. inserted).
-<to be read again> 
-                   \unhbox 
-l.28 	\includegraphics
-                      [scale=0.3]{images/FlujoCircular.png}
-I was expecting to see something like `(' or `\{' or
-`\}' here. If you typed, e.g., `{' instead of `\{', you
-should probably delete the `{' by typing `1' now, so that
-braces don't get unbalanced. Otherwise just proceed.
-Acceptable delimiters are characters whose \delcode is
-nonnegative, or you can use `\delimiter <delimiter code>'.
-
-<images/FlujoCircular.png, id=17, 642.4pt x 352.31625pt>
-File: images/FlujoCircular.png Graphic file (type png)
-<use images/FlujoCircular.png>
-Package pdftex.def Info: images/FlujoCircular.png  used on input line 28.
-(pdftex.def)             Requested size: 192.72148pt x 105.69568pt.
-
-! LaTeX Error: \begin{figure} on input line 24 ended by \end{subfigure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 \end{subfigure}
-                     	
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing \right. inserted.
-<inserted text> 
-                \right .
-l.29 \end{subfigure}
-                     	
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.29 \end{subfigure}
-                     	
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: Environment subfigure undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 \begin{subfigure}
-                      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.31 	\left
-           	
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing delimiter (. inserted).
-<to be read again> 
-                   \unhbox 
-l.32 	\includegraphics
-                      [scale=0.3]{images/FPP.png}
-I was expecting to see something like `(' or `\{' or
-`\}' here. If you typed, e.g., `{' instead of `\{', you
-should probably delete the `{' by typing `1' now, so that
-braces don't get unbalanced. Otherwise just proceed.
-Acceptable delimiters are characters whose \delcode is
-nonnegative, or you can use `\delimiter <delimiter code>'.
-
-<images/FPP.png, id=18, 472.76625pt x 374.39874pt>
-File: images/FPP.png Graphic file (type png)
-<use images/FPP.png>
-Package pdftex.def Info: images/FPP.png  used on input line 32.
-(pdftex.def)             Requested size: 141.83096pt x 112.32048pt.
-
-! LaTeX Error: \begin{figure} on input line 24 ended by \end{subfigure}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \end{subfigure}
-                     		
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing \right. inserted.
-<inserted text> 
-                \right .
-l.33 \end{subfigure}
-                     		
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.33 \end{subfigure}
-                     		
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-) (./capitulos/cap3.tex [2 <./images/FlujoCircular.png> <./images/FPP.png>]
-<images/Desplazamientos_en_la_FPP.png, id=24, 1059.96pt x 350.30875pt>
+) (./capitulos/cap2.tex [2]) (./capitulos/cap3.tex [3]
+<images/Desplazamientos_en_la_FPP.png, id=49, 1059.96pt x 350.30875pt>
 File: images/Desplazamientos_en_la_FPP.png Graphic file (type png)
 <use images/Desplazamientos_en_la_FPP.png>
 Package pdftex.def Info: images/Desplazamientos_en_la_FPP.png  used on input li
-ne 9.
+ne 8.
 (pdftex.def)             Requested size: 317.99045pt x 105.09343pt.
 )
-(./capitulos/cap4.tex [3 <./images/Desplazamientos_en_la_FPP.png>] [4]
-<images/demand1.png, id=32, 461.725pt x 283.0575pt>
+(./capitulos/cap4.tex [4 <./images/Desplazamientos_en_la_FPP.png>]
+<images/demand1.png, id=55, 461.725pt x 283.0575pt>
 File: images/demand1.png Graphic file (type png)
 <use images/demand1.png>
 Package pdftex.def Info: images/demand1.png  used on input line 50.
 (pdftex.def)             Requested size: 145.87875pt x 89.42703pt.
-
+ [5]
 Underfull \hbox (badness 3407) in paragraph at lines 53--54
 [][]\T1/stix/m/n/10 Si ocu-rre al-go que al-te-re al-go al-te-re la can-ti-dad 
 de-man-da-
@@ -1306,13 +1365,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 
  []
 
-[5 <./images/demand1.png>] [6]
-<images/char4.png, id=41, 780.9175pt x 218.8175pt>
+[6 <./images/demand1.png>]
+<images/char4.png, id=64, 780.9175pt x 218.8175pt>
 File: images/char4.png Graphic file (type png)
 <use images/char4.png>
 Package pdftex.def Info: images/char4.png  used on input line 100.
 (pdftex.def)             Requested size: 468.55411pt x 131.2915pt.
-) (./capitulos/cap5.tex [7 <./images/char4.png>]) (./capitulos/cap6.tex [8]
+) (./capitulos/cap5.tex [7 <./images/char4.png>])
+(./capitulos/cap6.tex [8]
 
 ! LaTeX Error: Environment subfigure undefined.
 
@@ -1346,7 +1406,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<images/61.jpg, id=49, 730.73pt x 548.0475pt>
+<images/61.jpg, id=72, 730.73pt x 548.0475pt>
 File: images/61.jpg Graphic file (type jpg)
 <use images/61.jpg>
 Package pdftex.def Info: images/61.jpg  used on input line 18.
@@ -1419,7 +1479,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<images/62.jpg, id=50, 730.73pt x 548.0475pt>
+<images/62.jpg, id=73, 730.73pt x 548.0475pt>
 File: images/62.jpg Graphic file (type jpg)
 <use images/62.jpg>
 Package pdftex.def Info: images/62.jpg  used on input line 22.
@@ -1492,7 +1552,7 @@ braces don't get unbalanced. Otherwise just proceed.
 Acceptable delimiters are characters whose \delcode is
 nonnegative, or you can use `\delimiter <delimiter code>'.
 
-<images/meme3.jpg, id=51, 602.25pt x 298.11375pt>
+<images/meme3.jpg, id=74, 602.25pt x 298.11375pt>
 File: images/meme3.jpg Graphic file (type jpg)
 <use images/meme3.jpg>
 Package pdftex.def Info: images/meme3.jpg  used on input line 26.
@@ -1534,28 +1594,29 @@ my insertion and my current dilemma will both disappear.
 
 ) (./capitulos/cap7.tex [9 <./images/61.jpg> <./images/62.jpg> <./images/Meme3.
 jpg>]) (./capitulos/cap8.tex [10]) (./capitulos/cap9.tex [11])
-(./capitulos/cap10.tex [12]) (./capitulos/CapEmpaty.tex [13]) [14]
-(./template.aux
+(./capitulos/cap10.tex [12]) [13] (./template.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 16765 strings out of 492616
- 304257 string characters out of 6132783
- 355435 words of memory out of 5000000
- 20247 multiletter control sequences out of 15000+600000
+ 29097 strings out of 492616
+ 709221 string characters out of 6132783
+ 936555 words of memory out of 5000000
+ 32390 multiletter control sequences out of 15000+600000
  81549 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,48p,871b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,10n,96p,871b,756s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/stix/stix-ts1.enc}{c:/texlive/20
 18/texmf-dist/fonts/enc/dvips/stix/stix-t1.enc}<c:/texlive/2018/texmf-dist/font
 s/type1/public/stix/STIXGeneral-Bold.pfb><c:/texlive/2018/texmf-dist/fonts/type
 1/public/stix/STIXGeneral-Italic.pfb><c:/texlive/2018/texmf-dist/fonts/type1/pu
-blic/stix/STIXGeneral-Regular.pfb>
-Output written on template.pdf (15 pages, 444757 bytes).
+blic/stix/STIXGeneral-Regular.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publi
+c/stix/stix-mathit.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/stix/stix
+-mathrm.pfb>
+Output written on template.pdf (14 pages, 380906 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 58 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
